@@ -1,0 +1,12 @@
+*.class
+*.cache
+*.log
+*~
+.idea*
+.ensime*
+.setting*
+target/
+project/target/
+projectFilesBackup*
+node_modules/
+package-lock.json
